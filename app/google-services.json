@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "380486730702",
+    "firebase_url": "https://snapclone-a24a2.firebaseio.com",
+    "project_id": "snapclone-a24a2",
+    "storage_bucket": "snapclone-a24a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380486730702:android:2b1a1c43cd70d69c",
+        "android_client_info": {
+          "package_name": "com.theblackthorn.snapclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380486730702-vdccintpbule6tr35hpl58ta9l33lccp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theblackthorn.snapclone",
+            "certificate_hash": "166df3142fd534eb88bd474832d7549c2b1f6c3e"
+          }
+        },
+        {
+          "client_id": "380486730702-lf3fl5f39ebkbje6a2rpiqbo6r09oafk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBtIx_zxJeLKr5qo6BV19EVcvby5V6RY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380486730702-lf3fl5f39ebkbje6a2rpiqbo6r09oafk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
